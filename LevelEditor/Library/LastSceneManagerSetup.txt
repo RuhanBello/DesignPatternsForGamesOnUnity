@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/EditorScene.unity
+  isLoaded: 1
+  isActive: 1
